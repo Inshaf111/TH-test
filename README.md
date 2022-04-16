@@ -3,9 +3,10 @@
 
 Project Info
 
-flutter version 2.10
-state Management : Flutter Bloc
-Architecture : Clean Architecture
+1. Flutter version 2.10
+2. State Management : Flutter Bloc
+3. Architecture : Clean Architecture
+
 
 Additional Info
 
