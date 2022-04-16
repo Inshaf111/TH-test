@@ -14,7 +14,7 @@ This project contains :
 1. Dependancy injection
 2. Google Login
 3. Email Login
-4. Reistration
+4. Registration
 5. Dio for API Intergration
 6. Firebase Authentication
 7. Crypto for encrypting passwords
