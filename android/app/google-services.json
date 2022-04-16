@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "388222321564",
+    "firebase_url": "https://testpro-dfaab.firebaseio.com",
+    "project_id": "testpro-dfaab",
+    "storage_bucket": "testpro-dfaab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388222321564:android:6b2706d440018e6d19fe59",
+        "android_client_info": {
+          "package_name": "com.example.dukkantek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388222321564-s9ar0fhl3bs9h3u20fgm92g84arlpf6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr2o4Q8mUuY2I1npZe_K5J0NhRKUhNCS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388222321564-s9ar0fhl3bs9h3u20fgm92g84arlpf6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388222321564-ri505mu1tvjtk4u0j3pd0duccc6dv7e9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dukkantek"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
