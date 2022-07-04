@@ -1,4 +1,4 @@
-# dukkantek-test
+# exaple clean architecture -test
 
 
 Project Info
